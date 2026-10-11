@@ -34,4 +34,4 @@ flutter test
 
 ## Privacy and safety
 
-All records remain in app-local storage. Reflection notes can contain sensitive personal text; they are not uploaded or logged. Export is user initiated. Erasing data returns the app to first-run onboarding. Usage/blocking feature claims must not be added until their platform-specific capability has actually been authorized and verified.
+Records are kept in app-local storage and are not uploaded or logged by Stillwell. Reflection notes may contain sensitive personal text. Device backup behavior is controlled by the operating system and its settings. Export is user initiated and its temporary file is removed after the share flow returns. Erasing data returns the app to first-run onboarding. Usage/blocking feature claims must not be added until their platform-specific capability has actually been authorized and verified.

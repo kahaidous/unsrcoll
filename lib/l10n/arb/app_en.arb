@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "appName": "Stillwell",
+  "tagline": "A little more intention. A little less autopilot.",
+  "welcomeTitle": "Make room for what matters.",
+  "welcomeBody": "Notice the moments that pull you into scrolling, then try a small routine that feels right for you.",
+  "disclaimer": "“Brain rot” is an informal phrase, not a medical diagnosis. Stillwell is a habit-support tool, not medical care.",
+  "home": "Today",
+  "reflect": "Reflect",
+  "settings": "Settings",
+  "startFocus": "Start a focus session",
+  "focusTitle": "Set a focus window",
+  "beginFocus": "Begin focus",
+  "endEarly": "End session",
+  "saveReflection": "Save reflection",
+  "exportData": "Export my data",
+  "deleteData": "Delete all local data"
+}
